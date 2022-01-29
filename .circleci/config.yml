@@ -27,4 +27,4 @@ jobs:
       - run:
           name: Back-End Build
           command: |
-            npm run backend:build:
+            npm run backend:build
